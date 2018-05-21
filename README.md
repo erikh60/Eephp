@@ -9,7 +9,7 @@ PHP 5.3.0 and later.
 You can install the bindings via [Composer](http://getcomposer.org/). Run the following command:
 
 ```bash
-composer require erikh60/Eephp
+composer require erikh60/eephp
 ```
 
 To use the bindings, use Composer's [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading):
