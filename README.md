@@ -4,12 +4,12 @@
 
 PHP 5.3.0 and later.
 
-## Composer
+## Composer (Github is most always most recent.  My Packagist will lag)
 
 You can install the bindings via [Composer](http://getcomposer.org/). Run the following command:
 
 ```bash
-composer require erikh60/eephp
+composer require erikh60/Eephp
 ```
 
 To use the bindings, use Composer's [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading):
@@ -20,10 +20,10 @@ require_once('vendor/autoload.php');
 
 ## Manual Installation
 
-If you don't use Composer, you can download the [latest release](https://github.com/erikh60/eephp/releases).
+If you don't use Composer, you can download the [latest release](https://github.com/erikh60/Eephp/releases).
 
 ```php
-require_once('/path/to/eephp.php');
+require_once('/path/to/Eephp.php');
 ```
 
 ## Dependencies

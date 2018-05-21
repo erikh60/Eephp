@@ -232,13 +232,13 @@ function gtm_test_html()
 
 	global $type;
 	print("<pre>Demonstration.... We are currently tagging 7 types of pages with EE
-		<a href=analytics_EE_inc.php?eetest=1&type=1>1</a>=search results (impressions)
-		<a href=analytics_EE_inc.php?eetest=1&type=2>2</a>=charity detail and campaign pages (detail and actionField.list set+impressions for \"you might also like\")
-		<a href=analytics_EE_inc.php?eetest=1&type=3>3</a>=add to cart page/express checkout page (detail and actionField.list set to distinguish from #2)
-		<a href=analytics_EE_inc.php?eetest=1&type=4>4add</a>=the \"added to cart\" page where an amount has been added and you are viewing/reviewing the cart  (add)
-		<a href=analytics_EE_inc.php?eetest=1&type=4>4remove</a>=\"removed from cart\" (remove)
-		<a href=analytics_EE_inc.php?eetest=1&type=5>5</a>=stepout steps with funnels 1-6 described in GA (checkout)
-		<a href=analytics_EE_inc.php?eetest=1&type=6>6</a>=thankyou page (purchase)
+		<a href=Test.php?eetest=1&type=1>1</a>=search results (impressions)
+		<a href=Test.php?eetest=1&type=2>2</a>=charity detail and campaign pages (detail and actionField.list set+impressions for \"you might also like\")
+		<a href=Test.php?eetest=1&type=3>3</a>=add to cart page/express checkout page (detail and actionField.list set to distinguish from #2)
+		<a href=Test.php?eetest=1&type=4>4add</a>=the \"added to cart\" page where an amount has been added and you are viewing/reviewing the cart  (add)
+		<a href=Test.php?eetest=1&type=4>4remove</a>=\"removed from cart\" (remove)
+		<a href=Test.php?eetest=1&type=5>5</a>=stepout steps with funnels 1-6 described in GA (checkout)
+		<a href=Test.php?eetest=1&type=6>6</a>=thankyou page (purchase)
 
 	</pre><hr>");
 
