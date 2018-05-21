@@ -1,0 +1,30 @@
+{
+  "name": "stripe/stripe-php",
+  "description": "Google Enhanced Ecommerce PHP Lib",
+  "keywords": [
+    "google enhanced ecommerce",
+    "google analytics",
+    "google tag manager",
+    "api"
+  ],
+  "homepage": "http://erikhaugsjaa.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Erik Haugsjaa",
+      "email": "ehaugsjaa@gmail.com",
+      "homepage": "http://erikhaugsjaa.com/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  },
+  "autoload": {
+    "psr-4": { "erikh60\\" : "" }
+  }
+}
